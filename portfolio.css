@@ -158,32 +158,32 @@ section:nth-child(2n + 1) {
 }
 .mb-blue{
     background-color:blue;
-    width: 50%;
+    width: 0%;
 }
 .mb-green{
     background-color:green;
-    width: 90%;
+    width: 0%;
 }
 
 .mb-red{
     background-color:red;
-    width: 75%;
+    width: 0%;
 }
 .mb-orange{
     background-color:orange;
-    width: 70%;
+    width: 0%;
 }
 .mb-purple{
     background-color:purple;
-    width: 80%;
+    width: 0%;
 }
 .mb-lightpink{
     background-color:lightpink;
-    width: 65%;
+    width: 0%;
 }
 .mb-lightblue{
     background-color:lightblue;
-    width: 75%;
+    width: 0%;
 }
 
 /* Experience Section */
